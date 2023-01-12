@@ -21,8 +21,8 @@ provider "aws" {
 
 
 locals {
-  github-repo = "https://github.com/timothy-clark/phonebookswarm.git"
-  github-file-url = "https://raw.githubusercontent.com/timothy-clark/phonebookswarm/master/"
+  github-repo = "https://github.com/bekirbilgec/docker_swarm_project.git"
+  github-file-url = "https://raw.githubusercontent.com/bekirbilgec/docker_swarm_project/main/"
 
 }
 
